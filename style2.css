@@ -18,7 +18,7 @@
             text-decoration: underline;
         }
         .homebg {
-            background-image: url('../images/1stgenbg.jpg'); 
+            background-image: url('/project/images/1stgenbg.jpg'); 
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
